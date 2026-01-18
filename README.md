@@ -36,25 +36,32 @@ Focusary is a professional-grade desktop ecosystem engineered in Java, designed 
 
 The central hub featuring the synchronized digital clock, adaptive greetings, and primary navigation controllers.
 
-> **[INSERT_SCREENSHOT_MAIN_DASHBOARD_HERE]**
+> <img width="1122" height="622" alt="image" src="https://github.com/user-attachments/assets/2caf19b0-4794-456f-9ada-cddc8b97f22e" />
+
 
 ### ⏱️ Pomodoro Focus Mode
 
 The minimalist timer interface featuring a high-visibility countdown, session controls, and floating motivational quotes.
 
-> **[INSERT_SCREENSHOT_POMODORO_TIMER_HERE]**
+> <img width="424" height="249" alt="image" src="https://github.com/user-attachments/assets/f22216ce-930e-41d4-b925-8fe865608eac" />
+
 
 ### 📝 Task & Daily Notes Module
 
 The productivity workspace where tasks are tracked and date-specific notes are archived.
 
-> **[INSERT_SCREENSHOT_NOTES_AND_TODO_HERE]**
+> <img width="1118" height="602" alt="image" src="https://github.com/user-attachments/assets/2e5a7b9f-2242-4c84-94a1-bee78ecd6a51" />
+
 
 ### 🎵 Personalization & Media Settings
 
 The configuration panel for selecting ambient soundscapes and high-resolution background aesthetics.
 
-> **[INSERT_SCREENSHOT_SETTINGS_SELECTOR_HERE]**
+> <img width="230" height="257" alt="image" src="https://github.com/user-attachments/assets/3ab7d292-6926-439d-ad9f-206f00bfbf1b" />
+
+<img width="1064" height="697" alt="image" src="https://github.com/user-attachments/assets/d77efe20-f7bd-4e2a-b1a9-52d445be7493" />
+
+
 
 ---
 
